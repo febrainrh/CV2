@@ -1,0 +1,24 @@
+body {
+	font-family: 'Montserrat-Medium', sans-serif;
+	background-image: url(united-squares-negative.png);
+	background-repeat: repeat;
+}
+
+h1, h3 {
+	color: #633a82;
+}
+
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: medium;
+	width: 10%
+}
+
+table .myImg {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	box-shadow: 0px 0px 4px 2px grey;	
+}
